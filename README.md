@@ -1,6 +1,3 @@
-Guilherme-Ssouza
-
-## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/Guilherme-Ssouza">
@@ -26,7 +23,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/guilhermee.souzaz?igsh=MWF1ZThzMWJlbmVscQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
